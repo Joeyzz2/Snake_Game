@@ -1,2 +1,2 @@
 # Snake Game
-Small game of snake that eats apples, simple, in python.
+Jogo clássico snake feito com linguaguem python.
